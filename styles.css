@@ -1,5 +1,6 @@
 
 /* Your CSS Code here. */
-.container{
+.row{
 	display:grid;
+	justify-content:space-between;
 }
